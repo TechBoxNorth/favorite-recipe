@@ -1,6 +1,12 @@
+@font-face {
+  font-family: rounded-font;
+  src: url(VarelaRound-Regular.ttf);
+}
+
 body {
   background-image: url("bg.jpg");
   text-align: center;
+  font-family: rounded-font, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 main {
