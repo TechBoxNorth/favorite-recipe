@@ -1,3 +1,41 @@
 body {
   background-image: url("bg.jpg");
+  text-align: center;
+}
+
+main {
+  background-color: #fef9e3;
+  max-width: 840px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+div.list-container {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+ol {
+  display: inline-block;
+  text-align: left;
+}
+
+footer {
+  max-width: 840px;
+  background-color: #fef9e3;
+  margin: auto;
 }
